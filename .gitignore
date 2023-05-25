@@ -1,0 +1,14 @@
+### VS Code ###
+.vscode/
+
+### MacOS ###
+.DS_Store
+
+### log ###
+*.log
+
+### idea ###
+.idea/
+
+### rust ###
+target/
